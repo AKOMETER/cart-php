@@ -1,0 +1,13 @@
+<?php require_once('config.php'); ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<?php echo 'chfjf'; ?>
+
+<h1>SOME CODE</h1>
+</body>
+</html>
